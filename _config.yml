@@ -1,26 +1,21 @@
-# ----
-# Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: DMPR
+#url: "https://long-pig.cloudvent.net"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Hagen Paul Pfeifer
+  email: hagen@jauu.net
+  twitter: hgnize
 social:
-  name: Edition Template
+  name: Dynamic MultiPath Routing Protocol
   links:
     - https://github.com/CloudCannon/edition-jekyll-template
 
-# -----
-# Build
 
 permalink: pretty
 

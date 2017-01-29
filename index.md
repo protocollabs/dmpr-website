@@ -1,13 +1,10 @@
 ---
-title: Welcome
+title: Dynamic MultiPath Routing
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+The *Dynamic MultiPath Routing (DMPR) Protocol* is a routing protocol to address several
+shortcomings of current routing protocols. 
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
