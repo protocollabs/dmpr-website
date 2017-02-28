@@ -3,7 +3,10 @@ title: Dynamic MultiPath Routing
 ---
 
 The *Dynamic MultiPath Routing (DMPR) Protocol* is a routing protocol to address several
-shortcomings of current routing protocols. 
+shortcomings of current routing protocols.
+
+![Logo](images/dmpr-logo.png "Logo")
+
 
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
