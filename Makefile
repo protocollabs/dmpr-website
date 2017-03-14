@@ -23,3 +23,6 @@ create:
 upload: create
 	cp app.yaml _site
 	cd _site; $(HOME)/src/www/google-cloud-sdk/bin/gcloud app deploy
+
+clean:
+	rm -rf _site

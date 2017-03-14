@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="protocol-message-format-overview.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="155.17058"
+     inkscape:cy="540.91187"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1918"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#729fcf;fill-opacity:0.98009949;stroke:none;stroke-width:4.44499969;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12"
+       width="174.625"
+       height="15.874999"
+       x="21.166666"
+       y="32.416668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="92.604202"
+       y="43"
+       id="text826"><tspan
+         sodipodi:role="line"
+         id="tspan824"
+         x="92.604202"
+         y="43"
+         style="font-size:7.05555534px;fill:#ffffff;stroke-width:0.26458332px">Header</tspan></text>
+    <rect
+       style="opacity:1;fill:#f57900;fill-opacity:0.98009949;stroke:none;stroke-width:4.44499969;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12-3"
+       width="174.62498"
+       height="31.749998"
+       x="21.166666"
+       y="48.291668" />
+    <text
+       id="text845"
+       y="66.812508"
+       x="96.83754"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:7.05555534px;fill:#ffffff;stroke-width:0.26458332px"
+         y="66.812508"
+         x="96.83754"
+         id="tspan843"
+         sodipodi:role="line">Head</tspan></text>
+    <rect
+       y="80.041664"
+       x="21.166666"
+       height="84.666672"
+       width="174.625"
+       id="rect847"
+       style="opacity:1;fill:#8f5902;fill-opacity:0.98009949;stroke:none;stroke-width:4.44499969;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="93.662537"
+       y="122.37498"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="93.662537"
+         y="122.37498"
+         style="font-size:7.05555534px;fill:#ffffff;stroke-width:0.26458332px">Payload</tspan></text>
+    <rect
+       y="164.70834"
+       x="21.166666"
+       height="31.749998"
+       width="174.625"
+       id="rect853"
+       style="opacity:1;fill:#f57900;fill-opacity:0.98009949;stroke:none;stroke-width:4.44499969;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.554184"
+       y="182.17085"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="73.554184"
+         y="182.17085"
+         style="font-size:7.05555534px;fill:#ffffff;stroke-width:0.26458332px">Link Characteristics</tspan></text>
+    <rect
+       style="opacity:1;fill:#204a87;fill-opacity:0.98009949;stroke:none;stroke-width:4.44499969;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect859"
+       width="174.625"
+       height="52.916626"
+       x="21.166666"
+       y="196.45837" />
+    <text
+       id="text863"
+       y="224.50423"
+       x="84.666695"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:7.05555534px;fill:#ffffff;stroke-width:0.26458332px"
+         y="224.50423"
+         x="84.666695"
+         id="tspan861"
+         sodipodi:role="line">Auxiliary Data</tspan></text>
+    <rect
+       style="opacity:1;fill:#babdb6;fill-opacity:0.98009949;stroke:none;stroke-width:4.44499969;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect901"
+       width="52.91666"
+       height="15.875003"
+       x="195.79167"
+       y="32.416664" />
+    <rect
+       y="48.291668"
+       x="195.79167"
+       height="201.08333"
+       width="52.91666"
+       id="rect903"
+       style="opacity:1;fill:#eeeeec;fill-opacity:0.98009949;stroke:none;stroke-width:4.44499969;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.19511"
+       y="42.833305"
+       id="text826-6"><tspan
+         sodipodi:role="line"
+         id="tspan824-7"
+         x="201.19511"
+         y="42.833305"
+         style="font-size:4.23333311px;fill:#000000;stroke-width:0.26458332px">Binary Encoded</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.20901"
+       y="143.22029"
+       id="text826-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan824-7-3"
+         x="200.20901"
+         y="143.22029"
+         style="font-size:4.23333311px;fill:#000000;stroke-width:0.26458332px">ASCII/JSON Encoding</tspan></text>
+  </g>
+</svg>
